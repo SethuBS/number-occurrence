@@ -1,4 +1,4 @@
-# number-occurrence
+# Number Occurrence
 
 Write a method that returns a List of the numbers from a specified int array that appear n OR more times in that array.
 
